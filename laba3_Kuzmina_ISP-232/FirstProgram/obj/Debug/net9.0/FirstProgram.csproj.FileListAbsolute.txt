@@ -1,0 +1,14 @@
+F:\♡♡♡\vs CODE\laba3_Kuzmina_ISP-232\FirstProgram\bin\Debug\net9.0\FirstProgram.exe
+F:\♡♡♡\vs CODE\laba3_Kuzmina_ISP-232\FirstProgram\bin\Debug\net9.0\FirstProgram.deps.json
+F:\♡♡♡\vs CODE\laba3_Kuzmina_ISP-232\FirstProgram\bin\Debug\net9.0\FirstProgram.runtimeconfig.json
+F:\♡♡♡\vs CODE\laba3_Kuzmina_ISP-232\FirstProgram\bin\Debug\net9.0\FirstProgram.dll
+F:\♡♡♡\vs CODE\laba3_Kuzmina_ISP-232\FirstProgram\bin\Debug\net9.0\FirstProgram.pdb
+F:\♡♡♡\vs CODE\laba3_Kuzmina_ISP-232\FirstProgram\obj\Debug\net9.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\♡♡♡\vs CODE\laba3_Kuzmina_ISP-232\FirstProgram\obj\Debug\net9.0\FirstProgram.AssemblyInfoInputs.cache
+F:\♡♡♡\vs CODE\laba3_Kuzmina_ISP-232\FirstProgram\obj\Debug\net9.0\FirstProgram.AssemblyInfo.cs
+F:\♡♡♡\vs CODE\laba3_Kuzmina_ISP-232\FirstProgram\obj\Debug\net9.0\FirstProgram.csproj.CoreCompileInputs.cache
+F:\♡♡♡\vs CODE\laba3_Kuzmina_ISP-232\FirstProgram\obj\Debug\net9.0\FirstProgram.dll
+F:\♡♡♡\vs CODE\laba3_Kuzmina_ISP-232\FirstProgram\obj\Debug\net9.0\refint\FirstProgram.dll
+F:\♡♡♡\vs CODE\laba3_Kuzmina_ISP-232\FirstProgram\obj\Debug\net9.0\FirstProgram.pdb
+F:\♡♡♡\vs CODE\laba3_Kuzmina_ISP-232\FirstProgram\obj\Debug\net9.0\FirstProgram.genruntimeconfig.cache
+F:\♡♡♡\vs CODE\laba3_Kuzmina_ISP-232\FirstProgram\obj\Debug\net9.0\ref\FirstProgram.dll
